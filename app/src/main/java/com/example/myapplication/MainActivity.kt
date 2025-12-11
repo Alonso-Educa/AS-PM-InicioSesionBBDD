@@ -97,7 +97,7 @@ fun Inicio(name: String, modifier: Modifier = Modifier, background: Modifier) {
                 .padding(horizontal = 25.dp, vertical = 10.dp),
             textDecoration=TextDecoration.Underline,
         )
-
+//hola
         Row (Modifier.background(color=Color.LightGray).padding(horizontal = 25.dp)){
             Text(
                 text="DAM",
